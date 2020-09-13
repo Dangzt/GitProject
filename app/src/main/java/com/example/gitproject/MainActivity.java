@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toast.makeText(this,"第一次提交代码",Toast.LENGTH_LONG).show();
-        Toast.makeText(this,"第二个人修改",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"修改bug",Toast.LENGTH_LONG).show();
     }
 }
