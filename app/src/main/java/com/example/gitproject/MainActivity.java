@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.d(TAG, "onCreate: 第一次开发代码");
+        Log.d(TAG, "onCreate: 修改bug");
         Log.d(TAG, "onCreate: 第二次开发代码");
     }
 }
