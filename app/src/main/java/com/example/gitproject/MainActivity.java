@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d(TAG, "onCreate: 第一次开发代码");
+        Log.d(TAG, "onCreate: 第二次开发代码");
     }
 }
