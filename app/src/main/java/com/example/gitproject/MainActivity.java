@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: 修改bug");
         Log.d(TAG, "onCreate: 第二次开发代码");
         Log.d(TAG, "onCreate: 第三次开发代码");
+        Log.d(TAG, "onCreate: 第四次开发代码");
     }
 }
