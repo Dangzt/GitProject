@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: 第三次开发代码");
         Log.d(TAG, "onCreate: 第四次开发代码");
         Log.d(TAG, "onCreate: 最新开发二");
+        Log.d(TAG, "onCreate: 最新开发三");
     }
 }
